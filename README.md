@@ -3,6 +3,7 @@
 ## 🎯 QA Engineer | Test Automation Specialist
 
 💼 **Atualmente:** Buscando novas oportunidades
+
 🔧 **Especialidades:** 
 - Testes Automatizados em sistemas embarcados
 - Frameworks: Selenium, Cypress, Playwright

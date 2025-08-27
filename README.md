@@ -4,25 +4,14 @@
 
 💼 **Atualmente:** QA na [Nome da Empresa]  
 🔧 **Especialidades:** 
-- Testes Automatizados (Web, API, Mobile)
-- Frameworks: Selenium, Cypress, Playwright, RestAssured
+- Testes Automatizados em sistemas embarcados
+- Frameworks: Selenium, Cypress, Playwright
 - Linguagens: Java, JavaScript, Python
-- Ferramentas: JIRA, Postman, Jenkins, Docker
+- Ferramentas: JIRA, Postman, Python
 
 ## 📊 Estatísticas do GitHub
 
 ![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vinicid&show_icons=true&theme=radical)
-
-## 🛠️ Projetos em Destaque
-
-### 🤖 [Projeto de Automação Web](link)
-Framework de automação com Selenium WebDriver e Java
-
-### 📱 [Automação Mobile](link) 
-Testes automatizados para aplicativos mobile com Appium
-
-### 🌐 [API Testing](link)
-Coleção de testes de API com RestAssured
 
 ## 📫 Como me encontrar
 

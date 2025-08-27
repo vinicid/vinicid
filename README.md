@@ -6,8 +6,8 @@
 🔧 **Especialidades:** 
 - Testes Automatizados em sistemas embarcados
 - Frameworks: Selenium, Cypress, Playwright
-- Linguagens: Java, JavaScript, Python
-- Ferramentas: JIRA, Postman, Python
+- Linguagens: JavaScript, Python
+- Ferramentas: JIRA, Postman
 
 ## 📊 Estatísticas do GitHub
 
